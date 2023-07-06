@@ -33,7 +33,7 @@ const robertoJardines = {
     askMeAbout: ["web dev", "tech", "ecommerce"],
     technologies:{
         backEnd: ["nodejs", "express"],
-        fronEnd: ["react", "redux", "bootstrap"],
+        frontEnd: ["react", "redux", "bootstrap"],
         db: ["mongodb","sql"],
         dbm: ["postgreSQL","mySQL"],
         orm: ["sequelize"],
