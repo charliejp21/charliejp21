@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const robertoJardines = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     askMeAbout: ["web dev", "tech", "ecommerce"],
     technologies:{
         backEnd: ["nodejs", "express"],
